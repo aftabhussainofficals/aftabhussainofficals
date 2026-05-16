@@ -23,8 +23,7 @@
 ⚡ AI Builder focused on intelligent systems and automation  
 🧠 Exploring LLMs, machine learning pipelines, and data-driven tools  
 🔬 Working with Python, C++, Kaggle, Hugging Face, and Colab  
-🚀 Building projects that turn ideas into working AI systems  
-📌 Interested in search engines, AI agents, and optimization systems  
+🚀 Building AI systems, search engines, and automation tools  
 
 </div>
 
@@ -45,27 +44,12 @@ Hugging Face • Kaggle • Google Colab • NumPy • Pandas • Scikit-learn �
 
 ---
 
-# 🚧 Now Building
-
-<div align="center">
-
-🧠 GitHub AI Search Engine (semantic ranking system)  
-🤖 LLM prompt engineering experiments  
-⚙️ Python automation tools  
-📊 Kaggle dataset analysis pipelines  
-🔍 Code intelligence and retrieval systems  
-
-</div>
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aftabhussainofficals&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=aftabhussainofficals&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=aftabhussainofficals&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </div>
 
@@ -75,7 +59,8 @@ Hugging Face • Kaggle • Google Colab • NumPy • Pandas • Scikit-learn �
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabhussainofficals&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabhussainofficals&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -85,7 +70,7 @@ Hugging Face • Kaggle • Google Colab • NumPy • Pandas • Scikit-learn �
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aftabhussainofficals/aftabhussainofficals/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/aftabhussainofficals/aftabhussainofficals/blob/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -114,13 +99,6 @@ Hugging Face • Kaggle • Google Colab • NumPy • Pandas • Scikit-learn �
 </a>
 
 </div>
-
----
-
-# ⏱️ Coding Activity (WakaTime Ready)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
