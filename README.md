@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi+I'm+Aftab+Hussain;AI+Builder+🤖;Python+%2B+C%2B%2B+Developer;Open+Source+Explorer" />
-</h1>
+<h1>Hi 👋, I'm Aftab Hussain</h1>
+
+<h3>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=800&center=true&vCenter=true&width=900&height=70&lines=AI+Builder+🤖;Python+%2B+C%2B%2B+Developer;Machine+Learning+Explorer;Open+Source+Contributor" />
+</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Focus-AI%20Systems-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack-Python%20%7C%20C++%20%7C%20JS-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tools-HuggingFace%20%7C%20Kaggle%20%7C%20Colab-00FF88?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=aftabhussainofficals&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 </div>
@@ -22,7 +22,7 @@
 
 ⚡ AI Builder focused on intelligent systems and automation  
 🧠 Exploring LLMs, machine learning pipelines, and data-driven tools  
-🔬 Working with Python, C++, Kaggle, Hugging Face, and Colab  
+🔬 Working with Python, C++, Kaggle, Hugging Face, and Google Colab  
 🚀 Building AI systems, search engines, and automation tools  
 
 </div>
@@ -76,10 +76,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabhussain
 
 ---
 
-# 🚀 Final Touch
+# ⚡ Final Touch
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=3000&lines=AI+is+the+future+🚀;Build+intelligence+not+just+apps;Keep+experimenting+🧠"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=3000&lines=AI+is+the+future+🚀;Build+intelligence+not+just+apps;Keep+experimenting+🧠"/>
 
 </div>
