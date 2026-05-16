@@ -190,7 +190,7 @@ If you find my projects or repos helpful, consider buying me a coffee — it kee
 <br/>
 
 <a href="https://www.buymeacoffee.com/aftabhussainofficals" target="_blank">
- <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=aftabhussainofficals&button_colour=00d4ff&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" height="55" alt="Buy Me A Coffee"/>
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" alt="Buy Me A Coffee"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://ko-fi.com/aftabhussainofficals" target="_blank">
