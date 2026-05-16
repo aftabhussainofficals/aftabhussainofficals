@@ -15,18 +15,20 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about **AI Development**
-- 🔍 Building a **Building Small LLMs as Project**
-- 🌱 Currently learning **Advanced AI + Scalable Web**
-- 🎯 Goal: Become a **Top Open Source Contributor**
-- ⚡ Fun fact: I love turning complex ideas into simple products
+- 💻 Passionate about AI development  
+- 🔍 Building small LLM-based projects  
+- 🌱 Learning advanced AI systems and scalable web apps  
+- 🎯 Goal: Strong open-source contributor  
+- ⚡ Enjoy turning complex ideas into simple products  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/aftabhussainofficals"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/aftabhussainofficals">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
@@ -52,7 +54,7 @@
 
 ---
 
-## 🐍 Contributions Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aftabhussainofficals/aftabhussainofficals/output/github-contribution-grid-snake.svg" />
@@ -62,18 +64,16 @@
 
 ## 🧩 Featured Projects
 
-🚧 Coming Soon — Building awesome projects and open-source tools.
+🚧 Coming soon — building open-source tools and AI systems.
 
 ---
 
 ## ☕ Support
 
 <p align="center">
-  If you like my work, consider giving a ⭐ to my repositories!
+  If you like my work, consider starring my repositories.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding+🚀" />
 </p>
-
-<!-- ================= END ================= -->
