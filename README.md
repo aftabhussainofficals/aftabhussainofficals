@@ -1,96 +1,65 @@
-<!-- ================= GLASS HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aftabhussainofficals.aftabhussainofficals" />
-
-<br/>
-
-<div style="background: linear-gradient(135deg, #0f172a, #1e293b); padding: 20px; border-radius: 20px;">
 
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+I'm+Aftab+Hussain+👋;Full+Stack+Web+Developer;AI+Builder;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi+I'm+Aftab+Hussain;AI+Builder+🤖;Python+%2B+C%2B%2B+Developer;Open+Source+Explorer" />
 </h1>
 
-</div>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-Web%20%26%20AI-00C2FF?style=for-the-badge&logo=codeium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active%20Builder-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
-<img src="https://img.shields.io/badge/Location-Pakistan-FFB000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-</div>
-
----
-
-<!-- ================= ABOUT GLASS CARD ================= -->
-
-## 🧠 About Me
-
-<div style="background: #0f172a; padding: 18px; border-radius: 15px;">
-
-- 🚀 Building **AI + Web systems**
-- 🔍 Working on a **GitHub Search Engine Project**
-- 🌱 Learning **Cloud, AI, Scalable Architectures**
-- 🎯 Goal: Become a **Top Tier Open Source Engineer**
-- ⚡ I turn complex systems into simple products
-
-</div>
-
----
-
-<!-- ================= SOCIAL BADGES ================= -->
-
-## 🌐 Connect
-
-<p align="center">
-
-<a href="mailto:aftabhussain.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1F1F1F?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
-
-<a href="https://github.com/aftabhussainofficals">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
+<p>
+<img src="https://img.shields.io/badge/Focus-AI%20Systems-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20C++%20%7C%20JS-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tools-HuggingFace%20%7C%20Kaggle%20%7C%20Colab-00FF88?style=for-the-badge"/>
 </p>
 
----
-
-<!-- ================= SKILLS ================= -->
-
-## ⚒️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,typescript,javascript,mongodb,mysql,firebase,tailwind,git,github,vscode" />
-
-</p>
+</div>
 
 ---
 
-<!-- ================= PROJECT CARDS ================= -->
-
-## 🚀 Featured Projects
+# 🧠 About Me
 
 <div align="center">
 
-<a href="https://github.com/aftabhussainofficals">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=github-search-engine&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/aftabhussainofficals">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=portfolio&theme=tokyonight" />
-</a>
+⚡ AI Builder focused on intelligent systems and automation  
+🧠 Exploring LLMs, machine learning pipelines, and data-driven tools  
+🔬 Working with Python, C++, Kaggle, Hugging Face, and Colab  
+🚀 Building projects that turn ideas into working AI systems  
+📌 Interested in search engines, AI agents, and optimization systems  
 
 </div>
 
 ---
 
-<!-- ================= STATS ================= -->
+# 🧰 Tech Stack
 
-## 📊 GitHub Analytics
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode,linux,javascript" />
+
+</p>
+
+### AI / ML Tools
+<p align="center">
+Hugging Face • Kaggle • Google Colab • NumPy • Pandas • Scikit-learn • PyTorch (learning)
+</p>
+
+---
+
+# 🚧 Now Building
+
+<div align="center">
+
+🧠 GitHub AI Search Engine (semantic ranking system)  
+🤖 LLM prompt engineering experiments  
+⚙️ Python automation tools  
+📊 Kaggle dataset analysis pipelines  
+🔍 Code intelligence and retrieval systems  
+
+</div>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -100,6 +69,10 @@
 
 </div>
 
+---
+
+# 📈 Top Languages
+
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabhussainofficals&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -108,9 +81,7 @@
 
 ---
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 <div align="center">
 
@@ -120,22 +91,43 @@
 
 ---
 
-<!-- ================= ACHIEVEMENT BADGES ================= -->
-
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aftabhussainofficals&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Keep+Building+🚀;Keep+Learning+💡;Keep+Shipping+⚡"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aftabhussainofficals&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aftabhussainofficals/github-search-engine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=github-search-engine&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/aftabhussainofficals/ml-experiments">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=ml-experiments&theme=tokyonight"/>
+</a>
+
+</div>
+
+---
+
+# ⏱️ Coding Activity (WakaTime Ready)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+# ⚡ Final Touch
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=3000&lines=AI+is+the+future+🚀;Build+intelligence+not+just+apps;Keep+experimenting+🧠"/>
 
 </div>
