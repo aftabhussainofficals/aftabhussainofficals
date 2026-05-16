@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aftabhussainofficals.aftabhussainofficals&left_color=1a1a2e&right_color=00d4ff&left_text=👁️%20Profile%20Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aftabhussainofficals.aftabhussainofficals&left_color=1a1a2e&right_color=00d4ff&left_text=Profile%20Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/aftabhussainofficals?label=Followers&style=flat&color=00d4ff&labelColor=1a1a2e&logo=github" />
   &nbsp;
