@@ -89,7 +89,7 @@ class AftabHussain:
 <h4 align="center">── Core Languages ──</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css&theme=dark" />
 </div>
 
 <br/>
@@ -98,7 +98,9 @@ class AftabHussain:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-  &nbsp;
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e"/>
@@ -111,8 +113,10 @@ class AftabHussain:
 <h4 align="center">── Dev Tools & IDEs ──</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,androidstudio,kali&theme=dark" />
-  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,gitlab,linux,kali,mysql&theme=dark" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Google%20Colab-F9A825?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=1a1a2e"/>
