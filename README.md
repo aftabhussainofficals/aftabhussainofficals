@@ -98,6 +98,9 @@ class AftabHussain:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nvidia&theme=dark" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e"/>
