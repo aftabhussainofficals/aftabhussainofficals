@@ -125,25 +125,21 @@ class AftabHussain:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=aftabhussainofficals&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aftabhussainofficals&theme=tokyonight" />
   &nbsp;
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabhussainofficals&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&hide=html" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aftabhussainofficals&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabhussainofficals&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aftabhussainofficals&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e6e&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&stroke=00d4ff" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aftabhussainofficals&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -177,27 +173,33 @@ class AftabHussain:
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
-
-[![Games](https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=Games&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/aftabhussainofficals/Games)
-&nbsp;
-[![TopSearch](https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=TopSearch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/aftabhussainofficals/TopSearch)
-
-[![CodeAlpha_Tasks](https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=CodeAlpha_Tasks&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/aftabhussainofficals/CodeAlpha_Tasks)
-&nbsp;
-[![Smart-Study-Planer_AI](https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=Smart-Study-Planer_AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/aftabhussainofficals/Smart-Study-Planer_AI)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=40&lines=AI+is+the+future+%F0%9F%9A%80+%E2%80%94+and+I'm+building+it%2C+one+commit+at+a+time.;Let's+connect+and+build+something+intelligent+together+%F0%9F%A4%9D;Open+to+collaborations+%7C+AI+projects+%7C+Open+Source+%F0%9F%8C%8D" alt="Footer animation" />
 </div>
 
 <br/>
 
 ---
 
+## ☕ Support My Work
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=40&lines=AI+is+the+future+%F0%9F%9A%80+%E2%80%94+and+I'm+building+it%2C+one+commit+at+a+time.;Let's+connect+and+build+something+intelligent+together+%F0%9F%A4%9D;Open+to+collaborations+%7C+AI+projects+%7C+Open+Source+%F0%9F%8C%8D" alt="Footer animation" />
+
+If you find my projects or repos helpful, consider buying me a coffee — it keeps the code (and me) running! 🚀
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/aftabhussainofficals" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=aftabhussainofficals&button_colour=00d4ff&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" height="55" alt="Buy Me A Coffee"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://ko-fi.com/aftabhussainofficals" target="_blank">
+  <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="55" alt="Support on Ko-fi" />
+</a>
+
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
