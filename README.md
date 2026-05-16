@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi+I'm+Aftab+Hussain;AI+Builder+🤖;Python+%2B+C%2B%2B+Developer;Open+Source+Explorer" />
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi+I'm+Aftab+Hussain;AI+Builder+🤖;Python+%2B+C%2B%2B+Developer;Open+Source+Explorer" />
 </h1>
 
 <p>
@@ -70,39 +70,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabhussain
 
 <div align="center">
 
-<img src="https://github.com/aftabhussainofficals/aftabhussainofficals/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/aftabhussainofficals/aftabhussainofficals/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aftabhussainofficals&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/aftabhussainofficals/github-search-engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=github-search-engine&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/aftabhussainofficals/ml-experiments">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aftabhussainofficals&repo=ml-experiments&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Final Touch
+# 🚀 Final Touch
 
 <div align="center">
 
