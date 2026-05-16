@@ -153,7 +153,7 @@ class AftabHussain:
 ## ⏱️ This Week I Coded
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aftab_&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aftab_&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
 </div>
 
 <br/>
