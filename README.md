@@ -147,13 +147,18 @@ class AftabHussain:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aftabhussainofficals&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e6e&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&stroke=00d4ff" alt="GitHub Streak Stats" />
 </div>
+
+<br/>
+
 ## ⏱️ This Week I Coded
 
-[![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=Aftab_&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&layout=compact)](https://wakatime.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aftab_&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
+</div>
+
 <br/>
 
 ---
-
 ## 📈 Contribution Activity
 
 <div align="center">
