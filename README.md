@@ -150,13 +150,6 @@ class AftabHussain:
 
 <br/>
 
-## ⏱️ This Week I Coded
-
-<div align="center">
-  <img src="https://wakatime.com/badge/user/aftab_.svg" alt="WakaTime" />
-</div>
-
-<br/>
 
 ---
 ## 📈 Contribution Activity
