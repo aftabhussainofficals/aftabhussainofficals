@@ -111,11 +111,13 @@ class AftabHussain:
 <h4 align="center">── Dev Tools & IDEs ──</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,androidstudio,kali&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Google%20Colab-F9A825?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Aide%20Studio-4A90D9?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a2e"/>
 </div>
 
 <br/>
